@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/q1blue.cevue-lo2fywrt",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve qZX0WK4yAwAGc7Hjfbp6 --open"
+  }
+}
